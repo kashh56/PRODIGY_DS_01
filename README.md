@@ -20,7 +20,7 @@ Tools Used
 
 Power BI
 
-![Bar Chart/Histogram](Task-1-Dashboard.png)
+![Bar Chart/Histogram](Task-1-dashboard.png)
 
 Steps Involved
 --------------
